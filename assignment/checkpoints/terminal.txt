@@ -19,3 +19,24 @@
 # 9 - What does the command 'git add .' do?
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+-----
+
+# 1 - ls
+
+# 2 - cd
+
+# 3 - cd ..
+
+# 4 - mkdir new_folder_name
+
+# 5 -
+
+# 6 -
+
+# 7 -
+
+# 8 -
+
+# 9 -
+
+# 10 -
