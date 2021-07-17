@@ -29,14 +29,14 @@
 
 # 4 - mkdir new_folder_name
 
-# 5 -
+# 5 - No output. The contents of the folder
 
-# 6 -
+# 6 - touch newFileName.fileType
 
-# 7 -
+# 7 - git version 2.25.1
 
-# 8 -
+# 8 - To check to see what you have committed, what you haven't, and where your branch stands compared to the master branch
 
-# 9 -
+# 9 - Adds all changed files to the staging area, preparing them for inclusion in the next commit.
 
-# 10 -
+# 10 - git push -u origin master
